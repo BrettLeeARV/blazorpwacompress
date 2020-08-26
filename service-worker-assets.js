@@ -65,14 +65,6 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-uwEajjYkB1oje5tXVD0ZxrOjv20w0DSM1665ep0hWtA=",
-      "url": "index.html"
-    },
-    {
-      "hash": "sha256-xJuB3iXSRHzJo\/7lz\/igadFPe96K3STNVfCe2NEo2BA=",
-      "url": "manifest.json"
-    },
-    {
       "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
       "url": "sample-data\/weather.json"
     },
