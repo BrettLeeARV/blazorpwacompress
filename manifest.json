@@ -1,6 +1,6 @@
 {
-  "name": "blazorpwacompress",
-  "short_name": "BlazorPWAC",
+  "name": "BlazorPWA",
+  "short_name": "BlazorPWA",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

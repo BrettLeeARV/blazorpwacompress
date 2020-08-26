@@ -65,6 +65,14 @@
       "url": "icon-512.png"
     },
     {
+      "hash": "sha256-ZTKxLLld4yaanovcLbI6gOVfC7HlDLPRW1zx9ciAdsc=",
+      "url": "index.html"
+    },
+    {
+      "hash": "sha256-xJuB3iXSRHzJo\/7lz\/igadFPe96K3STNVfCe2NEo2BA=",
+      "url": "manifest.json"
+    },
+    {
       "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
       "url": "sample-data\/weather.json"
     },
@@ -193,5 +201,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "5kT76HnU"
+  "version": "aDMjf19f"
 };
